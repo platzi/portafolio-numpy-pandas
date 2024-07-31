@@ -2,16 +2,6 @@
 
 Este proyecto realiza un análisis detallado de un conjunto de datos de ventas minoristas online. El análisis incluye la limpieza y preprocesamiento de datos, la creación de nuevas columnas, y la generación de insights clave a través de gráficos y estadísticas descriptivas.
 
-## Contenido
-
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Resultados del Análisis](#resultados-del-análisis)
-- [Conclusiones](#conclusiones)
-- [Autor](#autor)
-
 ## Descripción del Proyecto
 
 El objetivo de este proyecto es explorar y analizar un conjunto de datos de ventas minoristas online. Los datos incluyen información sobre las transacciones, productos, clientes y países. Se realizan varios análisis para extraer insights importantes que pueden ayudar en la toma de decisiones estratégicas.
